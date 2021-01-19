@@ -1,14 +1,13 @@
 <template>
-  <div class="container">
-    <h1>Stock Trader</h1>
-  </div>
+  <h1>The Header Component</h1>
 </template>
 
 <script>
-
 export default {
+  name: "Header"
 }
 </script>
 
-<style>
+<style scoped>
+
 </style>

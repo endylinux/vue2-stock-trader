@@ -1,14 +1,13 @@
 <template>
-  <div class="container">
-    <h1>Stock Trader</h1>
-  </div>
+  <h1>The Stock - Stocks Component</h1>
 </template>
 
 <script>
-
 export default {
+  name: "Stock"
 }
 </script>
 
-<style>
+<style scoped>
+
 </style>
